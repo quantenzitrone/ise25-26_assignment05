@@ -8,6 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ### Added
 
 - Add new `GET` endpoint `/api/pos/filter?name={name}` that allows API users to get a `POS` based on its name.
+- Add new cucumber test scenario.
 
 ### Changed
 
